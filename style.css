@@ -89,7 +89,7 @@ a.botones-si-no:hover::before {
     height: 100px;
 }
 p.quieres-regalo {
-    font-family: cursive;
+    font-family:Gloria Hallelujah ;
     margin: 10px 0px 5px 0px;
     letter-spacing: 1px;
 }
@@ -103,5 +103,6 @@ a.botones-si-no {
     text-decoration: none;
     font-family: Gloria Hallelujah;
 }
+
 
     }
